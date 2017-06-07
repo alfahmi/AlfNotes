@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlfNotes</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="alfahmi__list_product">
+		<item>Pulsa</item>
+		<item>Paket</item>
+		<item>Regular</item>
+	</string-array>
+	<string-array name="alfahmi__list_regular">
+		<item>As</item>
+		<item>Loop</item>
+		<item>Simpati</item>
+	</string-array>
+	<string-array name="alfahmi__list_product_regular_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="alfahmi__list_package">
+		<item>CUG 1.1</item>
+		<item>Loop Digi 3GB</item>
+		<item>Loop Circle 3GB</item>
+		<item>PRJJ 7GB</item>
+		<item>YED 30GB</item>
+	</string-array>
+</resources>
